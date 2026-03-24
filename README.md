@@ -14,6 +14,8 @@
 
 ---
 
+<img width="6466" height="1152" alt="image" src="https://github.com/user-attachments/assets/d4a51729-7b53-44e1-b481-574e60b8d2a5" />
+
 ## 🌱 About Me
 
 - 🧠 **00 后连续创业者**，长期探索 **AIGC × 产品 × 设计 × 工程**
