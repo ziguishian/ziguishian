@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://www.yuque.com/ziguishian">语雀</a> ·
-  <a href="#">GitHub</a> ·
-  <a href="#">小红书</a> ·
-  <a href="#">Bilibili</a>
+  <a href="https://github.com/ziguishian">GitHub</a> ·
+  <a href="https://www.xiaohongshu.com/user/profile/5ff14d650000000001006504">小红书</a> ·
+  <a href="https://space.bilibili.com/618506693?spm_id_from=333.337.0.0">Bilibili</a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAdpfqS4XH2ovYBFqavnRnjCT6AYYE8TwWsfrjoHRvF74?from_tab_name=main">抖音</a>
 </p>
 
 ---
