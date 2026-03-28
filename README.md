@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 子圭时安 👋</h1>
+<h1 align="center">Hi, I'm 子圭时安（Alex Shi） 👋</h1>
 
 <p align="center">
   <b>Designer · Developer · AI Builder</b><br/>
